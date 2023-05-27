@@ -1,5 +1,5 @@
-const App = ()=> {
-  return <h1>Leo's Store</h1>;
+const App = () => {
+  return <h1>Store</h1>;
 };
 
-export default App
+export default App;
